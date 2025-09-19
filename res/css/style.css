@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.nadpisy{
+    background-color: black;
+    color: white;
+}
+td{
+    font-weight: bold;
+}
+
+.edao1, .misak, .rudlys, .snupy, .pejsek, .andri{
+    background-color: lime;
+}
+
+.nick{
+    background-color: lime;
+}
